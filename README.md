@@ -45,9 +45,9 @@
 </p>
 
 [ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhuseyinesin)](https://github.com/huseyinesin) <img alt="Coding" width="120" height="20" src="https://komarev.com/ghpvc/?username=huseyinesin&label=Profile%20views&color=129e00&style=plastic" alt="Huseyin" /> </p> 
-[![Github](https://img.shields.io/github/followers/huseyinesin?label=Followers&logo=Github)](https://github.com/huseyinesin)
+
 <!--
-![Profile Views](https://komarev.com/ghpvc/?username=huseyinesin)
+![Profile Views](https://komarev.com/ghpvc/?username=huseyinesin)[![Github](https://img.shields.io/github/followers/huseyinesin?label=Followers&logo=Github)](https://github.com/huseyinesin)
 -->
 <hr>
 

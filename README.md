@@ -40,8 +40,10 @@
 ### 🚀 Quick Stats
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinesin&show_icons=true&line_height=21&theme=react" alt="Huseyin's Github Stats" />
-<img width="340" height="155" align="center" 
+<!--
+ <img width="340" height="155" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinesin&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+-->
 </p>
 
 [ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhuseyinesin)](https://github.com/huseyinesin) <img alt="Coding" width="120" height="20" src="https://komarev.com/ghpvc/?username=huseyinesin&label=Profile%20views&color=129e00&style=plastic" alt="Huseyin" /> </p> 

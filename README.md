@@ -12,7 +12,7 @@
 <!--
 - 🔭 I’m currently working on AWS-DEVOPS -->
 - 👋 Hi, I’m @huseyinesin
-- 👀 I’m interested in IT
+- 👀 I’m interested in DEVOPS
 - 🌱 I’m currently learning AWS-DEVOPS
 - 💞️ I’m looking to collaborate on AWS-DEVOPS
 - 🤔 I’m looking for help with DEVOPS
